@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-06-17T11:52:34.347688",
+  "train_accuracy": 0.975,
+  "test_accuracy": 0.9333333333333333,
+  "model_params": {
+    "metric": "euclidean",
+    "n_neighbors": 5,
+    "weights": "uniform"
+  },
+  "n_train_samples": 120,
+  "n_test_samples": 30
+}

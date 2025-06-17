@@ -1,0 +1,27 @@
+{
+  "algorithm": "K-Nearest Neighbors",
+  "sklearn_version": "1.0+",
+  "features": [
+    "sepal_length",
+    "sepal_width",
+    "petal_length",
+    "petal_width"
+  ],
+  "classes": [
+    "Setosa",
+    "Versicolor",
+    "Virginica"
+  ],
+  "model_params": {
+    "algorithm": "auto",
+    "leaf_size": 30,
+    "metric": "euclidean",
+    "metric_params": null,
+    "n_jobs": null,
+    "n_neighbors": 5,
+    "p": 2,
+    "weights": "uniform"
+  },
+  "scaler_type": "StandardScaler",
+  "dataset": "Iris Flower Dataset"
+}
